@@ -1,0 +1,19 @@
+﻿@using BOL;
+@model IEnumerable<Student>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Students of KNOW-IT</h2>
+<hr />
+<a href="/home/index">Home</a> |
+<a href="/Student/index">Student Details</a>
+<hr />
+<a href="/Student/insert">Insert New Feedback</a>
+<hr />
+@{ 
+    foreach(Student std in @Model)
+            {
+                <p><a href="/Student/details/@std.Module">@std.StudentName</a></p>
+            }
+}

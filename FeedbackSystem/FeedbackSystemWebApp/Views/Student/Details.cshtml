@@ -1,0 +1,21 @@
+﻿@using BOL;
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Module Feedback Details</h2>
+<hr />
+<a href="/home/index">Home</a> |
+<a href="/Student/index">Student Details</a>
+<hr />
+<p>Feedback ID : @Model.FeedbackId</p>
+<p>Student Name : @Model.StudentName</p>
+<p>Module : @Model.Module</p>
+<p>Faculty : @Model.Faculty</p>
+<p>Problem Solving Rating : @Model.ProblemSolvingRating</p>
+<p>PresentationSkill : @Model.PresentationSkill</p>
+<p>Comments: @Model.Comments</p>
+<p>Date : @Model.Date</p>
+<hr />
+<a href="/student/update/@Model.FeedbackId">Update</a>
+<a href="/student/delete/@Model.FeedbackId">Delete</a>

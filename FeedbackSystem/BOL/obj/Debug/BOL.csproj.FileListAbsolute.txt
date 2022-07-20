@@ -1,0 +1,6 @@
+D:\CDAC\.NET Technology\End Module\FeedbackSystem\FeedbackSystem\BOL\bin\Debug\BOL.dll
+D:\CDAC\.NET Technology\End Module\FeedbackSystem\FeedbackSystem\BOL\bin\Debug\BOL.pdb
+D:\CDAC\.NET Technology\End Module\FeedbackSystem\FeedbackSystem\BOL\obj\Debug\BOL.csproj.AssemblyReference.cache
+D:\CDAC\.NET Technology\End Module\FeedbackSystem\FeedbackSystem\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+D:\CDAC\.NET Technology\End Module\FeedbackSystem\FeedbackSystem\BOL\obj\Debug\BOL.dll
+D:\CDAC\.NET Technology\End Module\FeedbackSystem\FeedbackSystem\BOL\obj\Debug\BOL.pdb
